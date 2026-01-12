@@ -1,0 +1,9 @@
+mod insertion_sort;
+mod selection_sort;
+mod bubble_sort;
+mod shell_sort;
+mod quick_sort;
+mod merge_sort;
+mod heap_sort;
+mod counting_sort;
+mod radix_sort;
